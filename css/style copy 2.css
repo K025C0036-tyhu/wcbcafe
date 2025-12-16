@@ -86,7 +86,7 @@ img {
 }
 
 /*記事部分*/
-.post-info {
+.post {
     margin-bottom: 3rem;
 }
 
@@ -102,7 +102,7 @@ img {
 }
 .post-cat {
     display: flex;
-    gap: 5rem;
+    gap: .5rem;
     list-style: none;
 }
 
